@@ -30,7 +30,8 @@ To use **MSR**, you must fulfill the following conditions:
 <a href="https://github.com/welcometohell0600"><img src="https://avatars.githubusercontent.com/welcometohell0600" width="64px" style="border-radius:50%" title="welcometohell0600"/></a>
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="1053" height="580" alt="image" src="https://github.com/user-attachments/assets/54b17daa-689a-41b4-8246-ccaad3d5a909" />
+<img width="1293" height="673" alt="изображение" src="https://github.com/user-attachments/assets/48f4384d-c338-4bb2-96ed-cce76f2b27c5" />
+
 
 ## ⭐ Support the project
 
