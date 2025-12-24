@@ -3,16 +3,24 @@
 > ### MSR
 > You download and use this at your own risk. I am not responsible for any consequences!
 
-## Access Requirements
+## Supported OS
+*   **Windows** `Stable`
+*   **Arch Linux** `Stable`
+*   **Debian** `Coming Soon`
 
+---
+
+## Access Requirements
 To use **MSR**, you must fulfill the following conditions:
-1. **Join our Discord:** [discord.gg/pon](https://discord.gg/pon)
-2. **Get Premium Status:**
-   - **Server Boost:** Boost our Discord server to unlock access.
-   - **Lifetime Premium:** Purchase a permanent subscription on the server.
+
+1.  **Join our Discord:** [discord.gg/pon](https://discord.gg/pon)
+2.  **Get Premium Status:**
+    *    **Server Boost:** Boost our Discord server to unlock access.
+    *    **Lifetime Premium:** Purchase a permanent subscription on the server.
 
 > [!IMPORTANT]
-> Verification is performed automatically via our secure API. Without premium, the software will not start.
+> Verification is performed automatically via our secure API. Without the required role on the server, the software will not authorize your session.
+
 ---
 
 ## Huge thanks to everyone who participated in the project
@@ -22,7 +30,7 @@ To use **MSR**, you must fulfill the following conditions:
 <a href="https://github.com/welcometohell0600"><img src="https://avatars.githubusercontent.com/welcometohell0600" width="64px" style="border-radius:50%" title="welcometohell0600"/></a>
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="1293" height="673" alt="изображение" src="https://github.com/user-attachments/assets/693b40b4-0cdc-43d0-8a9b-6e1a7cb6ad97" />
+<img width="1053" height="580" alt="image" src="https://github.com/user-attachments/assets/54b17daa-689a-41b4-8246-ccaad3d5a909" />
 
 ## ⭐ Support the project
 
