@@ -3,13 +3,13 @@
 > ### MSR
 > You download and use this at your own risk. I am not responsible for any consequences!
 
-## 🔐 Access Requirements / Требования для доступа
+## Access Requirements
 
 To use **MSR**, you must fulfill the following conditions:
 1. **Join our Discord:** [discord.gg/pon](https://discord.gg/pon)
 2. **Get Premium Status:**
-   - 🚀 **Server Boost:** Boost our Discord server to unlock access.
-   - 💎 **Lifetime Premium:** Purchase a permanent subscription on the server.
+   - **Server Boost:** Boost our Discord server to unlock access.
+   - **Lifetime Premium:** Purchase a permanent subscription on the server.
 
 > [!IMPORTANT]
 > Verification is performed automatically via our secure API. Without premium, the software will not start.
