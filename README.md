@@ -27,7 +27,6 @@ To use **MSR**, you must fulfill the following conditions:
 <a href="https://github.com/TerminalPR0"><img src="https://avatars.githubusercontent.com/TerminalPR0" width="64px" style="border-radius:50%" title="TerminalPR0"/></a>
 <a href="https://github.com/xdearboy"><img src="https://avatars.githubusercontent.com/xdearboy" width="64px" style="border-radius:50%" title="xdearboy"/></a>
 <a href="https://github.com/vlad2ex"><img src="https://avatars.githubusercontent.com/vlad2ex" width="64px" style="border-radius:50%" title="vlad2ex"/></a>
-<a href="https://github.com/welcometohell0600"><img src="https://avatars.githubusercontent.com/welcometohell0600" width="64px" style="border-radius:50%" title="welcometohell0600"/></a>
 
 > Without their contribution and support, this project probably wouldn’t exist.
 <img width="1293" height="673" alt="изображение" src="https://github.com/user-attachments/assets/48f4384d-c338-4bb2-96ed-cce76f2b27c5" />
