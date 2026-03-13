@@ -5,8 +5,8 @@
 
 ## Supported OS
 *   **Windows** `Stable`
-*   **Arch Linux** `Stable`
-*   **Debian** `Coming Soon`
+*   **Linux** `Stable`
+*   **MacOS** `Coming Soon`
 
 ---
 
