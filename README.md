@@ -6,7 +6,7 @@
 ## Supported OS
 *   **Windows** `Stable`
 *   **Linux** `Stable`
-*   **MacOS** `Coming Soon`
+*   **MacOS** `Stable`
 
 ---
 
