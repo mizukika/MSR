@@ -29,7 +29,8 @@ To use **MSR**, you must fulfill the following conditions:
 <a href="https://github.com/vlad2ex"><img src="https://avatars.githubusercontent.com/vlad2ex" width="64px" style="border-radius:50%" title="vlad2ex"/></a>
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="1293" height="673" alt="изображение" src="https://github.com/user-attachments/assets/48f4384d-c338-4bb2-96ed-cce76f2b27c5" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/4d383234-5c01-4315-b012-2a522bc59751" />
+
 
 
 ## ⭐ Support the project
