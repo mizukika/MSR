@@ -13,7 +13,7 @@
 ## Access Requirements
 To use **MSR**, you must fulfill the following conditions:
 
-1.  **Join our Discord:** [discord.gg/pon](https://discord.gg/tbank)
+1.  **Join our Discord:** [discord.gg/tbank](https://discord.gg/tbank)
 2.  **Get Premium Status:**
     *    **Server Boost:** Boost our Discord server to unlock access.
     *    **Lifetime Premium:** Purchase a permanent subscription on the server.
