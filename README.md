@@ -15,7 +15,7 @@ To use **MSR**, you must fulfill the following conditions:
 
 1.  **Join our Discord:** [discord.gg/tbank](https://discord.gg/tbank)
 2.  **Get Premium Status:**
-    *    **Server Boost:** Boost our Discord server to unlock access.
+    *    **Server Boost:** Boost [discord.gg/miku01](https://discord.gg/miku01) Discord server to unlock access.
     *    **Lifetime Premium:** Purchase a permanent subscription on the server.
 
 > [!IMPORTANT]
